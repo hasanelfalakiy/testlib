@@ -4,18 +4,10 @@
 package com.andihasan7.salam
 
 class Sapa {
-    fun salamSapa(name: String): String = 
-	
-	"hai $name, selamat datang di Indomaret :)"
+    fun salamSapa(name: String): String = "hai $name, selamat datang di Indomaret :)"
 
-    fun main() 
-	
-	{
+    fun main() {
 
         println(salamSapa("Andi"))
-		
-		
-		
-		
     }
 }
