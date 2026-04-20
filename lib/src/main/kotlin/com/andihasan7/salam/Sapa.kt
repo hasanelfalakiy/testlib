@@ -9,8 +9,13 @@ class Sapa {
 	"hai $name, selamat datang di Indomaret :)"
 
     fun main() 
+	
 	{
 
         println(salamSapa("Andi"))
+		
+		
+		
+		
     }
 }
